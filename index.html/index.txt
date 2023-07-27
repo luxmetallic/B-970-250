@@ -181,9 +181,10 @@
   </style>
 </head>
 <body>
+ <a href="https://luxmetallic.com">
   <div class="banner" id="animatedBanner">
-    <div class="cover-image1"></div><img class="cover-image1" src="slide2.png" alt="cover" style="animation-delay:0.1s;">
-    <div class="cover-image1"></div><img class="cover-image1" src="slide1.png" alt="cover" style="animation-delay:0s;">
+    <div class="cover-image1"></div><img class="cover-image1" src="slide2 970.png" alt="cover" style="animation-delay:0.1s;">
+    <div class="cover-image1"></div><img class="cover-image1" src="slide1 970.png" alt="cover" style="animation-delay:0s;">
     <img class="product" src="p1.png" alt="Product 1" style="animation-delay: 0.6s;">
     <div class="product-overlay">Customize Your Card - Convert your plastic bank card to a luxurious metal.</div>
     <div class="title" style="animation-delay: 0.6s;">Customize Your Card</div>
@@ -196,6 +197,9 @@
     <div class="product-overlay">NFC Technology - Bank card with digital business card.</div>
     <div class="title" style="animation-delay: 12.6s;">NFC Technology</div>
     <div class="text" style="animation-delay: 13.1s;">Bank card with digital business card.</div>
-    <div class="cover-image"></div><img class="cover-image" src="slide2.png" alt="cover" style="animation-delay:17.1s;">
-    <div class="cover-image"></div><img class="cover-image" src="slide1.png" alt="cover" style="animation-delay:17.2s;">
-    <div
+    <div class="cover-image"></div><img class="cover-image" src="slide2 970.png" alt="cover" style="animation-delay:17.1s;">
+    <div class="cover-image"></div><img class="cover-image" src="slide1 970.png" alt="cover" style="animation-delay:17.2s;">
+  </div>
+ </a>
+</body>
+</html>
